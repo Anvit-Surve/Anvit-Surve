@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvit-surve&show_icons=true&theme=highcontrast&locale=en" alt="anvit-surve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvit-surve&theme=highcontrast" alt="anvit-surve" /></p>
+
+![snake gif](https://github.com/Anvit-Surve/Anvit-Surve/blob/output/github-contribution-grid-snake.gif)
